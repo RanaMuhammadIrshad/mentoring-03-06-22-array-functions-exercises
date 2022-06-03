@@ -1,0 +1,1 @@
+# mentoring-03-06-22-array-functions-exercises
